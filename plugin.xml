@@ -20,7 +20,6 @@
   </js-module>
 
   <platform name="android">
-    <framework src="com.android.support:support-v4:+" />
 
     <source-file src="src/android/ChromeUsb.java" target-dir="src/org/chromium" />
 
